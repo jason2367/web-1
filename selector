@@ -1,0 +1,19 @@
+<style>
+   [id="#someid"] { border: 1mm dotted red; font-size:20px; } 
+   .hyndai    { font-size: 30px; font-variant: small-caps; } 
+   .sedan     { color: yellow; background-color: black;} 
+   .hatchback { color: red; background-color: black; }  
+   .suv       { color: cyan; background-color: black; } 
+</style>
+<div id="#someid" class="hyndai sedan">#someid</div>
+<div id="ionic"  class="hyndai hatchback">20180607</div>
+<div id="김지원"   class="hyndai suv">김지원</div>
+<style>
+ #ionic   { height: 100px;   background-size: 180px;
+  background-image: url("https://t1.daumcdn.net/cfile/tistory/99943D365CCAA0FC16");
+} 
+ #김지원    { height: 120px;  background-size: 180px;
+  background-image: url("https://t1.daumcdn.net/cfile/tistory/2374164359422CEE35");
+ #someid
+} 
+</style>
